@@ -8,15 +8,7 @@
     background-color: #ffffff;
     margin: 50px auto;
   }
-  
-  .profile-img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-  }
-  
-  h2 {
+    h2 {
     margin: 10px 0 5px;
   }
   
